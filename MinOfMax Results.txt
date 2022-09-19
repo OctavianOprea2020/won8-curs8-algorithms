@@ -1,0 +1,10 @@
+ArrayList of ArrayLists values:
+10 7 97 9 3 
+59 4 80 
+45 20 25 99 
+50 33 
+Max(List(0)) is 97 (Min is by now 97)
+Max(List(1)) is 80 (Min is by now 80)
+Max(List(2)) is 99 (Min is by now 80)
+Max(List(3)) is 50 (Min is by now 50)
+Min of Max values is 50
